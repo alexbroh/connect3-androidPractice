@@ -29,7 +29,7 @@
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_margin="10dp"
-            app:srcCompat="@drawable/red" />
+            android:onClick="dropIn" />
 
         <ImageView
             android:id="@+id/imageView2"
@@ -37,7 +37,7 @@
             android:layout_height="100dp"
             android:layout_margin="10dp"
             android:layout_marginLeft="18dp"
-            app:srcCompat="@drawable/red" />
+            android:onClick="dropIn" />
 
         <ImageView
             android:id="@+id/imageView3"
@@ -45,7 +45,7 @@
             android:layout_height="100dp"
             android:layout_margin="10dp"
             android:layout_marginLeft="12dp"
-            app:srcCompat="@drawable/red" />
+            android:onClick="dropIn" />
 
         <ImageView
             android:id="@+id/imageView4"
@@ -53,7 +53,7 @@
             android:layout_height="100dp"
             android:layout_margin="10dp"
             android:layout_marginTop="13dp"
-            app:srcCompat="@drawable/red" />
+            android:onClick="dropIn" />
 
         <ImageView
             android:id="@+id/imageView5"
@@ -62,7 +62,7 @@
             android:layout_margin="10dp"
             android:layout_marginLeft="18dp"
             android:layout_marginTop="13dp"
-            app:srcCompat="@drawable/red" />
+            android:onClick="dropIn"/>
 
         <ImageView
             android:id="@+id/imageView6"
@@ -71,7 +71,7 @@
             android:layout_margin="10dp"
             android:layout_marginLeft="12dp"
             android:layout_marginTop="13dp"
-            app:srcCompat="@drawable/red" />
+            android:onClick="dropIn" />
 
         <ImageView
             android:id="@+id/imageView7"
@@ -79,7 +79,7 @@
             android:layout_height="100dp"
             android:layout_margin="10dp"
             android:layout_marginTop="16dp"
-            app:srcCompat="@drawable/red" />
+            android:onClick="dropIn"/>
 
         <ImageView
             android:id="@+id/imageView8"
@@ -88,7 +88,7 @@
             android:layout_margin="10dp"
             android:layout_marginLeft="18dp"
             android:layout_marginTop="16dp"
-            app:srcCompat="@drawable/red" />
+            android:onClick="dropIn" />
 
         <ImageView
             android:id="@+id/imageView9"
@@ -97,7 +97,7 @@
             android:layout_margin="10dp"
             android:layout_marginLeft="12dp"
             android:layout_marginTop="16dp"
-            app:srcCompat="@drawable/red" />
+            android:onClick="dropIn" />
 
 
 
